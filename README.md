@@ -134,6 +134,8 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 </div>
 
 <br/>
+<div align="center">
+
 
 ---
 
@@ -144,5 +146,5 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 **⭐ From [Lime-oss-hash](https://github.com/Lime-oss-hash) with 💙**
 
 <sub>Built with React, Next.js, and lots of ☕</sub>
-
 </div>
+
