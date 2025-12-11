@@ -127,7 +127,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 📧 **Email:** [sam2319667268@gmail.com](mailto:sam2319667268@gmail.com)
 
-🌐 **Personal Website:** [https://www.sambai.dev)
+🌐 **Portfolio:** [sambai.dev](https://www.sambai.dev) - Explore my projects & experience
 
 💬 **Open to:** Full-time roles · Freelance work · Open source collaboration
 
