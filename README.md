@@ -125,7 +125,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 <div align="center">
 
-📧 **Email:** [sam2319667268@gmail.com](mailto:sam2319667268@gmail.com)
+📧 **Email:** [sambai.codes@gmail.com](mailto:sambai.codes@gmail.com)
 
 🌐 **Portfolio:** [sambai.dev](https://www.sambai.dev) - Explore my projects & experience
 
@@ -143,7 +143,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 ---
 
-**⭐ From [Lime-oss-hash](https://github.com/Lime-oss-hash) with 💙**
+**⭐ From [Sam Bai](https://github.com/sambai-dev) with 💙**
 
 <sub>Built with React, Next.js, and lots of ☕</sub>
 </div>
