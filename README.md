@@ -127,7 +127,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 📧 **Email:** [sam2319667268@gmail.com](mailto:sam2319667268@gmail.com)
 
-🌐 **Live Demo:** [github.com/sambai-dev/taskflow-board](https://github.com/sambai-dev/taskflow-board)
+🌐 **Personal Website:** [https://www.sambai.dev)
 
 💬 **Open to:** Full-time roles · Freelance work · Open source collaboration
 
