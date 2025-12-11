@@ -59,7 +59,7 @@ const sam = {
 
 ## 🎯 Featured Projects
 
-### 📋 [My Trello Clone](https://taskboard-nextjs.vercel.app)
+### 📋 [TaskFlow Board](https://github.com/sambai-dev/taskflow-board)
 
 A feature-rich productivity application with modern UI and real-time collaboration capabilities.
 
@@ -127,7 +127,7 @@ I'm actively seeking **full-stack engineering opportunities** and always open to
 
 📧 **Email:** [sam2319667268@gmail.com](mailto:sam2319667268@gmail.com)
 
-🌐 **Live Demo:** [taskboard-nextjs.vercel.app](https://taskboard-nextjs.vercel.app)
+🌐 **Live Demo:** [github.com/sambai-dev/taskflow-board](https://github.com/sambai-dev/taskflow-board)
 
 💬 **Open to:** Full-time roles · Freelance work · Open source collaboration
 
