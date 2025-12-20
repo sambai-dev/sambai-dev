@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Sam! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Sam Bai
 
-### 🇳🇿 Junior Full-Stack Developer | Hamilton, NZ
+### Junior Full-Stack Developer | Hamilton, New Zealand
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps;Open+for+Opportunities!" alt="Typing SVG" />
 
@@ -14,18 +14,15 @@
 
 <br/>
 
-## 💫 About Me
+## About Me
 
-```javascript
-const sam = {
-  location: "🇳🇿 Hamilton, New Zealand",
-  currentFocus: "Building production-ready full-stack applications",
-  education: "BAppIT Software Engineering @ Wintec (2024)",
-  interests: ["Web3 & Blockchain", "Game Development", "UI/UX Design"],
-  funFact: "I believe great UX is invisible – you only notice bad design",
-  availableFor: ["Full-time opportunities", "Freelance projects", "Open source collaboration"]
-};
-```
+I am a Software Engineering graduate passionate about building robust, scalable web applications. My focus is on creating seamless user experiences through clean code and modern architecture.
+
+- **Location:** Hamilton, New Zealand
+- **Education:** Bachelor of Applied Information Technology (Software Engineering), Wintec (2024)
+- **Interests:** Web3 & Blockchain, UI/UX Design, System Architecture
+- **Focus:** Developing production-ready full-stack applications with React, Next.js, and TypeScript.
+- **Open To:** Full-time roles, freelance projects, and open-source collaboration.
 
 <br/>
 
@@ -34,6 +31,7 @@ const sam = {
 ## 🛠️ Tech Arsenal
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,11 +40,13 @@ const sam = {
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platform
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -57,94 +57,67 @@ const sam = {
 
 <br/>
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 📋 [TaskFlow Board](https://github.com/sambai-dev/taskflow-board)
+### [TaskFlow Board](https://github.com/sambai-dev/taskflow-board)
 
-A feature-rich productivity application with modern UI and real-time collaboration capabilities.
+A productivity application focused on real-time collaboration and modern task management.
 
-**🔥 Key Features:**
-- ⚡ **Real-time updates** with optimistic UI for instant feedback
-- 🎨 **Drag & Drop** interface powered by @dnd-kit
-- 🔐 **Secure authentication** via Clerk
-- 📱 **Fully responsive** design for all devices
-- 🗃️ **PostgreSQL** backend with Supabase
-- 🎭 **Beautiful UI** with Tailwind CSS & shadcn/ui
+- **Real-time Synchronization:** Optimistic UI updates for a seamless collaborative experience.
+- **Interactive Interface:** Drag-and-drop task management powered by `@dnd-kit`.
+- **User Authentication:** Secure identity management via Clerk.
+- **Responsive Design:** Optimized for a consistent experience across mobile and desktop.
+- **Backend Infrastructure:** PostgreSQL database managed through Supabase.
+- **Modern UI:** Built with Tailwind CSS and `shadcn/ui` for a premium look and feel.
 
-**🛠️ Tech Stack:** React · Next.js 16 · TypeScript · Supabase · Clerk · Tailwind CSS · @dnd-kit
+**Tech Stack:** React, Next.js, TypeScript, Supabase, Clerk, Tailwind CSS, @dnd-kit
 
 <br/>
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## GitHub Analytics
+
+<div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lime-oss-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Lime-oss-hash&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
 
 <br/>
 
-## 🏆 GitHub Trophies
+## Professional Experience
+
+**Recent Graduate** | BAppIT Software Engineering, Wintec (2024)
+
+**React Waka Transportation Community** | Full-Stack Developer Intern
+
+- Contributed to a community-driven transportation project serving the Tauranga region.
+- Developed frontend features using React and modern web development best practices.
+- Collaborated in an agile team environment to deliver functional solutions for real-world problems.
+
+<br/>
+
+## Learning Journey
+
+- **Exploring:** Web3 & Smart Contracts, Advanced TypeScript Patterns
+- **Improving:** System Design, Algorithm Optimization
+- **Reading:** _Clean Architecture_, _Designing Data-Intensive Applications_
+- **Upcoming:** Scaling production-grade SaaS applications
+
+<br/>
+
+## Let's Connect
+
+I am actively seeking **Full-Stack Engineering opportunities** and am open to discussions regarding technical collaboration, open-source projects, or professional networking.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lime-oss-hash&theme=discord&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
-<br/>
-
-## 💼 Professional Experience
-
-**🎓 Recent Graduate** - BAppIT Software Engineering, Wintec (2024)
-
-**🚀 React Waka Transportation Community** - Full-Stack Developer Intern
-- Contributed to community transportation project in Tauranga
-- Developed features using React and modern web technologies
-- Collaborated with cross-functional teams on real-world solutions
-
-<br/>
-
-## 🌱 Current Learning Journey
-
-```javascript
-const learningPath = {
-  exploring: ["Web3 & Smart Contracts", "Advanced TypeScript Patterns"],
-  improving: ["System Design", "Algorithm Optimization"],
-  reading: ["Clean Architecture", "Designing Data-Intensive Applications"],
-  next: "Building production-grade SaaS applications"
-};
-```
-
-<br/>
-
-## 🤝 Let's Connect
-
-I'm actively seeking **full-stack engineering opportunities** and always open to interesting conversations about tech, collaboration on projects, or just geeking out about code!
-
-<div align="center">
-
-📧 **Email:** [sambai.codes@gmail.com](mailto:sambai.codes@gmail.com)
-
-🌐 **Portfolio:** [sambai.dev](https://www.sambai.dev) - Explore my projects & experience
-
-💬 **Open to:** Full-time roles · Freelance work · Open source collaboration
-
-</div>
-
-<br/>
-<div align="center">
-
+[Email](mailto:sambai.codes@gmail.com) • [Portfolio](https://www.sambai.dev) • [LinkedIn](https://www.linkedin.com/in/sam-bai-dev/)
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+_Built with React, Next.js, and TypeScript_
 
----
-
-**⭐ From [Sam Bai](https://github.com/sambai-dev) with 💙**
-
-<sub>Built with React, Next.js, and lots of ☕</sub>
 </div>
-
