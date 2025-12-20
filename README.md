@@ -12,6 +12,8 @@
 
 </div>
 
+---
+
 <br/>
 
 ## About Me
@@ -23,6 +25,8 @@ I am a Software Engineer passionate about building robust, scalable web applicat
 - **Interests:** Web3 & Blockchain, UI/UX Design, System Architecture
 - **Focus:** Developing production-ready full-stack applications with React, Next.js, and TypeScript.
 - **Open To:** Full-time roles, freelance projects, and open-source collaboration.
+
+---
 
 <br/>
 
@@ -55,6 +59,8 @@ I am a Software Engineer passionate about building robust, scalable web applicat
 
 </div>
 
+---
+
 <br/>
 
 ## Featured Projects
@@ -70,20 +76,24 @@ A productivity application focused on real-time collaboration and modern task ma
 - **Backend Infrastructure:** PostgreSQL database managed through Supabase.
 - **Modern UI:** Built with Tailwind CSS and `shadcn/ui` for a premium look and feel.
 
-**Tech Stack:** React, Next.js, TypeScript, Supabase, Clerk, Tailwind CSS, @dnd-kit
+**Tech Stack:** `React`, `Next.js`, `TypeScript`, `Supabase`, `Clerk`, `Tailwind CSS`, `@dnd-kit`
+
+---
 
 <br/>
 
 <div align="center">
 
-## GitHub Analytics
-
 <div align="center">
+
+## GitHub Analytics
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lime-oss-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Lime-oss-hash&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
+
+---
 
 <br/>
 
@@ -95,7 +105,7 @@ A productivity application focused on real-time collaboration and modern task ma
 - Developed frontend features using React and modern web development best practices.
 - Collaborated in an agile team environment to deliver functional solutions for real-world problems.
 
-<br/>
+---
 
 ## Learning Journey
 
@@ -104,7 +114,7 @@ A productivity application focused on real-time collaboration and modern task ma
 - **Reading:** _Clean Architecture_, _Designing Data-Intensive Applications_
 - **Upcoming:** Scaling production-grade SaaS applications
 
-<br/>
+---
 
 ## Let's Connect
 
@@ -112,10 +122,6 @@ I am actively seeking **Full-Stack Engineering opportunities** and am open to di
 
 <div align="center">
 
-[Email](mailto:sambai.codes@gmail.com) • [Portfolio](https://www.sambai.dev) • [LinkedIn](https://www.linkedin.com/in/sam-bai-dev/)
-
----
-
-_Built with React, Next.js, and TypeScript_
+[**Email**](mailto:sambai.codes@gmail.com) • [**Portfolio**](https://www.sambai.dev) • [**LinkedIn**](https://www.linkedin.com/in/sam-bai-dev/)
 
 </div>
