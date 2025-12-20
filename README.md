@@ -2,7 +2,7 @@
 
 # Sam Bai
 
-### Junior Full-Stack Developer | Hamilton, New Zealand
+### Full-Stack Developer | Hamilton, New Zealand
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps;Open+for+Opportunities!" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a Software Engineering graduate passionate about building robust, scalable web applications. My focus is on creating seamless user experiences through clean code and modern architecture.
+I am a Software Engineer passionate about building robust, scalable web applications. My focus is on creating seamless user experiences through clean code and modern architecture.
 
 - **Location:** Hamilton, New Zealand
 - **Education:** Bachelor of Applied Information Technology (Software Engineering), Wintec (2024)
@@ -88,8 +88,6 @@ A productivity application focused on real-time collaboration and modern task ma
 <br/>
 
 ## Professional Experience
-
-**Recent Graduate** | BAppIT Software Engineering, Wintec (2024)
 
 **React Waka Transportation Community** | Full-Stack Developer Intern
 
