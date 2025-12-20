@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 <br/>
 
 ## About Me
@@ -25,8 +23,6 @@ I am a Software Engineer passionate about building robust, scalable web applicat
 - **Interests:** Web3 & Blockchain, UI/UX Design, System Architecture
 - **Focus:** Developing production-ready full-stack applications with React, Next.js, and TypeScript.
 - **Open To:** Full-time roles, freelance projects, and open-source collaboration.
-
----
 
 <br/>
 
@@ -59,8 +55,6 @@ I am a Software Engineer passionate about building robust, scalable web applicat
 
 </div>
 
----
-
 <br/>
 
 ## Featured Projects
@@ -78,8 +72,6 @@ A productivity application focused on real-time collaboration and modern task ma
 
 **Tech Stack:** `React`, `Next.js`, `TypeScript`, `Supabase`, `Clerk`, `Tailwind CSS`, `@dnd-kit`
 
----
-
 <br/>
 
 <div align="center">
@@ -93,8 +85,6 @@ A productivity application focused on real-time collaboration and modern task ma
 
 </div>
 
----
-
 <br/>
 
 ## Professional Experience
@@ -105,7 +95,7 @@ A productivity application focused on real-time collaboration and modern task ma
 - Developed frontend features using React and modern web development best practices.
 - Collaborated in an agile team environment to deliver functional solutions for real-world problems.
 
----
+<br/>
 
 ## Learning Journey
 
@@ -114,7 +104,7 @@ A productivity application focused on real-time collaboration and modern task ma
 - **Reading:** _Clean Architecture_, _Designing Data-Intensive Applications_
 - **Upcoming:** Scaling production-grade SaaS applications
 
----
+<br/>
 
 ## Let's Connect
 
