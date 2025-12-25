@@ -76,33 +76,12 @@ A productivity application focused on real-time collaboration and modern task ma
 
 <div align="center">
 
-<div align="center">
-
 ## GitHub Analytics
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lime-oss-hash&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Lime-oss-hash&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
-
-<br/>
-
-## Professional Experience
-
-**React Waka Transportation Community** | Full-Stack Developer Intern
-
-- Contributed to a community-driven transportation project serving the Tauranga region.
-- Developed frontend features using React and modern web development best practices.
-- Collaborated in an agile team environment to deliver functional solutions for real-world problems.
-
-<br/>
-
-## Learning Journey
-
-- **Exploring:** Web3 & Smart Contracts, Advanced TypeScript Patterns
-- **Improving:** System Design, Algorithm Optimization
-- **Reading:** _Clean Architecture_, _Designing Data-Intensive Applications_
-- **Upcoming:** Scaling production-grade SaaS applications
 
 <br/>
 
