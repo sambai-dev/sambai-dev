@@ -20,7 +20,7 @@ I am a Software Engineer passionate about building robust, scalable web applicat
 
 - **Location:** Hamilton, New Zealand
 - **Education:** Bachelor of Applied Information Technology (Software Engineering), Wintec (2024)
-- **Interests:** Web3 & Blockchain, UI/UX Design, System Architecture
+- **Interests:** UI/UX design, system architecture, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
 - **Focus:** Developing production-ready full-stack applications with React, Next.js, and TypeScript.
 - **Open To:** Full-time roles, freelance projects, and open-source collaboration.
 
