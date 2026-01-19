@@ -67,6 +67,23 @@ I’m a Full-Stack Developer based in Hamilton, focused on shipping modern web a
 
 ## Featured Projects
 
+### [Job Tracker](https://github.com/sambai-dev/job-tracker-app)
+
+A modern, full-stack job application tracking system with an intuitive Kanban board interface and drag-and-drop functionality.
+
+- **Kanban Board:** Visual pipeline with customizable columns (Applied, Interview, Offer, Rejected).
+- **Drag-and-Drop:** Seamless job movement between stages powered by `@dnd-kit`.
+- **Command Palette:** Quick actions with `Cmd/Ctrl + K` keyboard shortcut.
+- **Priority System:** Tag jobs with priority levels (High, Medium, Low).
+- **Real-time Updates:** Optimistic UI with SWR for instant feedback.
+- **Authentication:** Secure Google OAuth and email/password via `better-auth`.
+- **Animated Landing Page:** GSAP `ScrollTrigger` animations, Lenis smooth scrolling, and Framer Motion.
+- **Dark/Light Theme:** Full theme support with `next-themes`.
+
+**Tech Stack:** `Next.js 16`, `React 19`, `TypeScript 5`, `Tailwind CSS 4`, `MongoDB`, `Mongoose`, `shadcn/ui`, `@dnd-kit`, `GSAP`, `Framer Motion`
+
+---
+
 ### [TaskFlow Board](https://github.com/sambai-dev/taskflow-board)
 
 A productivity application focused on real-time collaboration and modern task management.
