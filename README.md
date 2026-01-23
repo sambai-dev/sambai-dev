@@ -104,7 +104,6 @@ A productivity application focused on real-time collaboration and modern task ma
 ## GitHub Analytics
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sambai-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=sambai-dev&theme=discord&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 
 </div>
 
