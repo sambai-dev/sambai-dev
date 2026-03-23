@@ -19,7 +19,7 @@
 I’m a Full-Stack Developer based in Hamilton, focused on shipping modern web apps with React, Next.js, TypeScript, and both SQL (Supabase/PostgreSQL) and NoSQL (MongoDB) databases.
 
 - **Location:** Hamilton, New Zealand
-- **Education:** Bachelor of Applied Information Technology (Software Engineering), Wintec (2024).
+- **Education:** Bachelor of Applied Information Technology (Software Engineering)
 - **Interests:** UI/UX design, system architecture, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations.
 - **Focus:** Shipping modern web apps with React, Next.js, TypeScript, and both SQL (Supabase/PostgreSQL) and NoSQL (MongoDB) databases.
 - **Open To:** Full-time roles, freelance projects, and open-source collaboration.
