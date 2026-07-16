@@ -71,12 +71,6 @@
 
 </div>
 
-<br/>
-
-## Let's Connect
-
-I am actively seeking **Full-Stack Engineering opportunities** and am open to discussions regarding technical collaboration, open-source projects, or professional networking.
-
 <div align="center">
 
 [**Email**](mailto:sambai.codes@gmail.com) • [**Portfolio**](https://www.sambai.dev) • [**LinkedIn**](https://www.linkedin.com/in/sam-bai-dev/)
