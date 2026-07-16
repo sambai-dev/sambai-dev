@@ -16,10 +16,8 @@
 
 ## About Me
 
-Full-Stack Developer based in Hamilton, focused on shipping modern web apps with React, Next.js, TypeScript, and both SQL (Supabase/PostgreSQL) and NoSQL (MongoDB) databases.
-
-- **Location:** Hamilton, New Zealand
-- **Education:** Bachelor of Applied Information Technology (Software Engineering)
+- **Location:** New Zealand
+- **Education:** Software Engineering Degree
 - **Interests:** UI/UX design, system architecture, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
 - **Focus:** Shipping modern web apps with React, Next.js, TypeScript, and both SQL (Supabase/PostgreSQL) and NoSQL (MongoDB) databases
 - **Open To:** freelance projects, and open-source collaboration
@@ -62,40 +60,6 @@ Full-Stack Developer based in Hamilton, focused on shipping modern web apps with
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 
 </div>
-
-<br/>
-
-## Featured Projects
-
-### [Job Tracker](https://github.com/sambai-dev/job-tracker-app)
-
-A modern, full-stack job application tracking system with an intuitive Kanban board interface and drag-and-drop functionality.
-
-- **Kanban Board:** Visual pipeline with customizable columns (Applied, Interview, Offer, Rejected).
-- **Drag-and-Drop:** Seamless job movement between stages powered by `@dnd-kit`.
-- **Command Palette:** Quick actions with `Cmd/Ctrl + K` keyboard shortcut.
-- **Priority System:** Tag jobs with priority levels (High, Medium, Low).
-- **Real-time Updates:** Optimistic UI with SWR for instant feedback.
-- **Authentication:** Secure Google OAuth and email/password via `better-auth`.
-- **Animated Landing Page:** GSAP `ScrollTrigger` animations, Lenis smooth scrolling, and Framer Motion.
-- **Dark/Light Theme:** Full theme support with `next-themes`.
-
-**Tech Stack:** `Next.js 16`, `React 19`, `TypeScript 5`, `Tailwind CSS 4`, `MongoDB`, `Mongoose`, `shadcn/ui`, `@dnd-kit`, `GSAP`, `Framer Motion`
-
----
-
-### [TaskFlow Board](https://github.com/sambai-dev/taskflow-board)
-
-A productivity application focused on real-time collaboration and modern task management.
-
-- **Real-time Synchronization:** Optimistic UI updates for a seamless collaborative experience.
-- **Interactive Interface:** Drag-and-drop task management powered by `@dnd-kit`.
-- **User Authentication:** Secure identity management via Clerk.
-- **Responsive Design:** Optimized for a consistent experience across mobile and desktop.
-- **Backend Infrastructure:** PostgreSQL database managed through Supabase.
-- **Modern UI:** Built with Tailwind CSS and `shadcn/ui` for a premium look and feel.
-
-**Tech Stack:** `React`, `Next.js`, `TypeScript`, `Supabase`, `Clerk`, `Tailwind CSS`, `@dnd-kit`
 
 <br/>
 
