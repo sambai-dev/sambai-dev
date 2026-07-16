@@ -24,8 +24,6 @@
 
 <br/>
 
-<br/>
-
 <div align="center">
 
 ## GitHub Analytics
