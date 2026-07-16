@@ -19,7 +19,7 @@
 - **Location:** New Zealand
 - **Education:** Degree in Software Engineering 
 - **Interests:** UI/UX design, system architecture, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
-- **Focus:** Shipping modern web apps with React, Next.js, TypeScript, and both SQL (Supabase/PostgreSQL) and NoSQL (MongoDB) databases
+- **Focus:** Focus: Shipping modern web apps with React, Next.js, TypeScript, and both SQL (Supabase/PostgreSQL, Cloudflare D1) and NoSQL (MongoDB) databases, using Prisma ORM or Drizzle ORM for type-safe data access
 - **Open To:** freelance projects, and open-source collaboration
 
 <br/>
