@@ -18,8 +18,6 @@
 
 - **Location:** New Zealand
 
-<br/>
-
 - **Interests:** UI/UX design, system architecture, artificial intelligence integration engineering, data processiong, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
 
 <div align="center">
