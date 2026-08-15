@@ -10,8 +10,6 @@
 
 </div>
 
-<br/>
-
 ## About Me
 
 - **Location:** New Zealand
