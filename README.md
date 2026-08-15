@@ -12,7 +12,7 @@
 
 ## About Me
 
-- **Location:** New Zealand
+- **Place I live:** New Zealand
 
 - **Hobbies:** UI/UX design, system architecture, artificial intelligence integration engineering, data processiong, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
 
