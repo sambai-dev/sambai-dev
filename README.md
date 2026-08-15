@@ -2,7 +2,7 @@
 
 # Sam Bai
 
-### Full-Stack Developer
+### Product Engineer
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sambai.codes@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.sambai.dev)
