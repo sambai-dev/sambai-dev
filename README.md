@@ -6,7 +6,3 @@ I build AI-native products and developer infrastructure—agent systems,
 reliable backend platforms, and high-performance tools in TypeScript and Rust.
 
 Currently building products at the intersection of AI, automation, and SaaS.
-
-[Portfolio](https://www.sambai.dev/) ·
-[LinkedIn](https://www.linkedin.com/in/sam-bai-dev/) ·
-[Email](mailto:sambai.codes@gmail.com)
