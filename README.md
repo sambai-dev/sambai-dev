@@ -16,11 +16,4 @@
 
 - **Hobbies:** UI/UX design, system architecture, artificial intelligence integration engineering, data processiong, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
 
-<div align="center">
-
-## GitHub Analytics
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sambai-dev&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-
-
 </div>
