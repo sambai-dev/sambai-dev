@@ -1,19 +1,12 @@
-<div align="center">
-
 # Sam Bai
 
-### Product Engineer
+Founder & product engineer at [Solynth Labs](https://www.solynth.com), based in New Zealand.
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sambai.codes@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.sambai.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-bai-dev/)
+I build AI-native products and developer infrastructure—agent systems,
+reliable backend platforms, and high-performance tools in TypeScript and Rust.
 
-</div>
+Currently building products at the intersection of AI, automation, and SaaS.
 
-## About Me
-
-- **Place I live:** New Zealand
-
-- **Hobbies:** UI/UX design, system architecture, artificial intelligence integration engineering, data processiong, quantitative finance (algorithmic trading), historical analysis, and complex strategic simulations
-
-</div>
+[Portfolio](https://www.sambai.dev/) ·
+[LinkedIn](https://www.linkedin.com/in/sam-bai-dev/) ·
+[Email](mailto:sambai.codes@gmail.com)
