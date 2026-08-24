@@ -1,6 +1,6 @@
 # Sam Bai
 
-Founder & product engineer at [Solynth Labs](https://www.solynth.com), based in New Zealand.
+Founder & product engineer at [Solynth Labs](https://www.solynthlabs.com), based in New Zealand.
 
 I build AI-native products and developer infrastructure—agent systems,
 reliable backend platforms, and high-performance tools in TypeScript and Rust.
